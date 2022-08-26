@@ -15,10 +15,8 @@ You can click the Preview link to take a look at your changes.
 Languages:
 
 - Python (Advanced)
-- Flutter/Dart (Intermediate)
-- Java (Intermediate)
+- C++ (Intermediate)
 - MySQL (Intermediate)
-- TypeScript/JavaScript (Beginner-Intermediate)
 
 Python Stack:
 
